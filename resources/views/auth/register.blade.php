@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="text-center">
-        <h1>Sign up</h1>
+        <h1><span style="font : normal 900 40pt 'Monotype Corsiva'">Sign up</span></h1>
     </div>
 
     <div class="row">
